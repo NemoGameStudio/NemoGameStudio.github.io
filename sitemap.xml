@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite-url/cn/20211014-Nemo%E6%8B%9B%E6%96%B0/</loc>
-    
-    <lastmod>2021-10-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite-url/tags/index.html</loc>
     
-    <lastmod>2021-10-12</lastmod>
+    <lastmod>2021-10-29</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/index.html</loc>
     
-    <lastmod>2021-10-12</lastmod>
+    <lastmod>2021-10-29</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite-url/404.html</loc>
     
-    <lastmod>2021-10-12</lastmod>
+    <lastmod>2021-10-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite-url/cn/20211014-Nemo%E6%8B%9B%E6%96%B0/</loc>
+    
+    <lastmod>2021-10-14</lastmod>
     
   </url>
   
@@ -60,7 +60,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2021-10-15</lastmod>
+    <lastmod>2021-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,7 +68,7 @@
   
   <url>
     <loc>http://yoursite-url/tags/Nemo%E5%B7%A5%E4%BD%9C%E5%AE%A4/</loc>
-    <lastmod>2021-10-15</lastmod>
+    <lastmod>2021-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -77,7 +77,7 @@
   
   <url>
     <loc>http://yoursite-url/categories/Nemo%E5%B7%A5%E4%BD%9C%E5%AE%A4/</loc>
-    <lastmod>2021-10-15</lastmod>
+    <lastmod>2021-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
